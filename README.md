@@ -27,6 +27,11 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
   <img alt="Mysql" src="https://img.shields.io/badge/Mysql-336791?logo=mysql&logoColor=white&style=flat" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" /></p>
+  
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitran27&layout=radical"
+/>
+  
 
 
 
