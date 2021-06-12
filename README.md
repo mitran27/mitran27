@@ -14,6 +14,7 @@
   <img alt="Natural language processing" src="https://img.shields.io/badge/Natural language processing-3178C6?logo=computervision&logoColor=green&style=flat" />
   <img alt="Django" src="https://img.shields.io/badge/Django-61DAFB?logo=django&logoColor=white&style=flat" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-F7DF1E?logo=flask&logoColor=white&style=flat" />
+  <img alt="huggingface" src="https://img.shields.io/badge/huggingface-F7DF1E?logo=huggingface&logoColor=white&style=flat" />
   </p>
   
   <h1>Worked in</h1>
