@@ -3,7 +3,7 @@
 
 
 
-<h1>Working in</h1>
+<h1>Worked in</h1>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-DD0031?logo=python&logoColor=white&style=flat" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-E34F26?logo=numpy&logoColor=green&style=flat" />
@@ -14,10 +14,7 @@
   <img alt="Natural language processing" src="https://img.shields.io/badge/Natural language processing-3178C6?logo=computervision&logoColor=green&style=flat" />
   <img alt="Django" src="https://img.shields.io/badge/Django-61DAFB?logo=django&logoColor=white&style=flat" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-F7DF1E?logo=flask&logoColor=white&style=flat" />
-  </p>
-  
-  <h1>Worked in</h1>
-  <p>
+ 
   
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />  
