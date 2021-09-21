@@ -17,6 +17,7 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-61DAFB?logo=django&logoColor=white&style=flat" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-F7DF1E?logo=flask&logoColor=white&style=flat" />
  </p>
+ <br>
   <p>
 
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
