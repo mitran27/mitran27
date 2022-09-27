@@ -12,7 +12,8 @@
   <img alt="Keras" src="https://img.shields.io/badge/Keras-DD0031?logo=keras&logoColor=red&style=flat" />
   <img alt="Computer vision" src="https://img.shields.io/badge/Computer Vision-3178C6?logo=computervision&logoColor=white&style=flat" />
   <img alt="Natural language processing" src="https://img.shields.io/badge/Natural language processing-3178C6?logo=computervision&logoColor=green&style=flat" />
-  <img alt="Speech processing" src="https://img.shields.io/badge/speech processing-CC6699?logo=computervision&logoColor=grey&style=flat" />
+  <img alt="Speech processing" src="https://img.shields.io/badge/speech processing-CC6699?logo=computervision&logoColor=blue&style=flat" />
+  <img alt="3D Vision" src="https://img.shields.io/badge/speech processing-CC6699?logo=computervision&logoColor=violet&style=flat" />
 
   <img alt="Django" src="https://img.shields.io/badge/Django-61DAFB?logo=django&logoColor=white&style=flat" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-F7DF1E?logo=flask&logoColor=white&style=flat" />
